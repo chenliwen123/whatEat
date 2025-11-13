@@ -1,0 +1,32 @@
+[
+  {
+    "name": "老王拌饭",
+    "address": "幸福路88号B座",
+    "image": "https://picsum.photos/seed/laowang/800/420",
+    "favorites": ["牛肉拌饭", "鸡腿拌饭"]
+  },
+  {
+    "name": "兰州拉面",
+    "address": "西北街15号",
+    "image": "https://picsum.photos/seed/lamian/800/420",
+    "favorites": ["牛肉拉面", "手抓羊肉"]
+  },
+  {
+    "name": "黄焖鸡米饭",
+    "address": "中心大道66号",
+    "image": "https://picsum.photos/seed/huangmenji/800/420",
+    "favorites": ["微辣黄焖鸡", "土豆加量"]
+  },
+  {
+    "name": "麻辣烫",
+    "address": "美食城一层A12",
+    "image": "https://picsum.photos/seed/malatang/800/420",
+    "favorites": ["牛肉卷", "豆皮", "金针菇"]
+  },
+  {
+    "name": "生煎锅贴",
+    "address": "老街口广场",
+    "image": "https://picsum.photos/seed/shengjian/800/420",
+    "favorites": ["生煎四个", "葱油拌面"]
+  }
+]

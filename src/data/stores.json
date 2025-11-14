@@ -1,32 +1,50 @@
 [
   {
-    "name": "老王拌饭",
-    "address": "幸福路88号B座",
+    "name": "米线",
+    "address": "越野路",
     "image": "https://picsum.photos/seed/laowang/800/420",
-    "favorites": ["牛肉拌饭", "鸡腿拌饭"]
+    "favorites": ["清汤米线", "特色米线"]
+  },
+  {
+    "name": "陕西岐山臊子面",
+    "address": "锦程街道锦程大街与越野路交汇处东北角(工商银行旁)",
+    "image": "https://picsum.photos/seed/lamian/800/420",
+    "favorites": ["面"]
   },
   {
     "name": "兰州拉面",
-    "address": "西北街15号",
-    "image": "https://picsum.photos/seed/lamian/800/420",
-    "favorites": ["牛肉拉面", "手抓羊肉"]
-  },
-  {
-    "name": "黄焖鸡米饭",
     "address": "中心大道66号",
     "image": "https://picsum.photos/seed/huangmenji/800/420",
-    "favorites": ["微辣黄焖鸡", "土豆加量"]
+    "favorites": ["土豆", "土豆加量"]
   },
   {
-    "name": "麻辣烫",
+    "name": "新板面",
     "address": "美食城一层A12",
     "image": "https://picsum.photos/seed/malatang/800/420",
-    "favorites": ["牛肉卷", "豆皮", "金针菇"]
+    "favorites": ["板面"]
   },
   {
-    "name": "生煎锅贴",
-    "address": "老街口广场",
+    "name": "老板面",
+    "address": "美食城后身",
     "image": "https://picsum.photos/seed/shengjian/800/420",
-    "favorites": ["生煎四个", "葱油拌面"]
+    "favorites": ["板面", "蔬菜炒面"]
+  },
+  {
+    "name": "百财哥",
+    "address": "美食城门口",
+    "image": "https://picsum.photos/seed/shengjian/800/420",
+    "favorites": ["麻辣烫","酸辣粉"]
+  },
+  {
+    "name": "烤肉饭",
+    "address": "美食城",
+    "image": "https://picsum.photos/seed/malatang/800/420",
+    "favorites": ["招牌烤肉饭"]
+  },
+  {
+    "name": "花甲粉",
+    "address": "美食城",
+    "image": "https://picsum.photos/seed/malatang/800/420",
+    "favorites": ["招牌花甲粉"]
   }
 ]

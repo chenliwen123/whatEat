@@ -58,5 +58,11 @@
     "address": "黄焖鸡米饭",
     "image": "https://picsum.photos/seed/malatang/800/420",
     "favorites": ["黄焖鸡米饭"]
+  },
+  {
+    "name": "体面饭馆",
+    "address": "饭",
+    "image": "https://picsum.photos/seed/malatang/800/420",
+    "favorites": ["饭"]
   }
 ]

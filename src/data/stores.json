@@ -46,5 +46,17 @@
     "address": "美食城",
     "image": "https://picsum.photos/seed/malatang/800/420",
     "favorites": ["招牌花甲粉"]
+  },
+  {
+    "name": "扯面",
+    "address": "扯面",
+    "image": "https://picsum.photos/seed/malatang/800/420",
+    "favorites": ["扯面","羊肉汤"]
+  },
+  {
+    "name": "黄焖鸡米饭",
+    "address": "黄焖鸡米饭",
+    "image": "https://picsum.photos/seed/malatang/800/420",
+    "favorites": ["黄焖鸡米饭"]
   }
 ]

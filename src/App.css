@@ -151,6 +151,9 @@ body { margin: 0; }
     height: 180px; 
     max-width: 100%; 
   }
+  .hero-right {
+    display: none;
+  }
   
   .actions { 
     padding: 0 16px 8px; 
